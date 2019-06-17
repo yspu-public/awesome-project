@@ -2,4 +2,4 @@ This is modified line number 1;
 This is line for feature;
 This is modified line number 3;
 
-feature's new line, I think it will be conflict too
+Feature's new line, I think it will be conflict too

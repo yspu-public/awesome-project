@@ -1,3 +1,5 @@
 This is modified line number 1;
 This is line for feature;
 This is modified line number 3;
+
+New line, I think it will be conflict line.
